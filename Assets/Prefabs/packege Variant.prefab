@@ -9,7 +9,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 3450170209032302221, guid: 38d52a71a62b9a328a62ecfdcaa8db1b, type: 3}
       propertyPath: m_Name
-      value: packege
+      value: packege Variant
       objectReference: {fileID: 0}
     - target: {fileID: 3450170209032302221, guid: 38d52a71a62b9a328a62ecfdcaa8db1b, type: 3}
       propertyPath: m_TagString
@@ -17,15 +17,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3450170209032302223, guid: 38d52a71a62b9a328a62ecfdcaa8db1b, type: 3}
       propertyPath: m_Color.b
-      value: 0.04111784
+      value: 0.039215676
       objectReference: {fileID: 0}
     - target: {fileID: 3450170209032302223, guid: 38d52a71a62b9a328a62ecfdcaa8db1b, type: 3}
       propertyPath: m_Color.g
-      value: 0.73295987
+      value: 0.7921569
       objectReference: {fileID: 0}
     - target: {fileID: 3450170209032302223, guid: 38d52a71a62b9a328a62ecfdcaa8db1b, type: 3}
       propertyPath: m_Color.r
-      value: 0.7924528
+      value: 0.22522068
       objectReference: {fileID: 0}
     - target: {fileID: 3450170209032302256, guid: 38d52a71a62b9a328a62ecfdcaa8db1b, type: 3}
       propertyPath: m_RootOrder
