@@ -13014,11 +13014,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 800765057649488163, guid: 831341529b2e2bd1db1a2a3820cb15c5, type: 3}
       propertyPath: slowSpeed
-      value: 2.5
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 800765057649488163, guid: 831341529b2e2bd1db1a2a3820cb15c5, type: 3}
       propertyPath: boostSpeed
-      value: 30
+      value: 25
       objectReference: {fileID: 0}
     - target: {fileID: 800765057649488163, guid: 831341529b2e2bd1db1a2a3820cb15c5, type: 3}
       propertyPath: boostSpees
